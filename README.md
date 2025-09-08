@@ -21,3 +21,5 @@ Rejoignez-nous :
 Nous croyons que la langue est un terrain de jeu. Que l’expérimentation, le plaisir du détournement, la contradiction et la poésie sont les vraies sources d’innovation.
 
 **Faire de l’Oulipo LinkedIn, c’est écrire intelligent (et joyeux) dans la jungle des réseaux pros.**
+
+N'oubliez pas de publier sur le hashtag officiel pour partage votre Oulipo : #OulipoLinkedIn
