@@ -174,7 +174,7 @@ buzzwords deviennent littéralement impossibles à écrire.
 **- Mode expert** : Ajouter les lettres d'INNOVATION
 **- Mode masochiste** : Bannir aussi les voyelles A et O
 
-**Exemple concret :**
+**Exemple :**
 
 **Impossible** : « Cette stratégie disruptive va transformer notre mindset »
 _(contient D, I, S, R, U, P, T, F, M, N, E)_
@@ -477,7 +477,7 @@ recette de cuisine, bulletin météo, notice pharmaceutique, etc.
 **- Notice pharmaceutique** : Posologie, contre-indications, evets secondaires
 **- Critique cinéma** : Synopsis, analyse, note sur 5, recommandations
 
-**Exemple concret :**
+**Exemple :**
 
 **Mode d'emploi IKEA LEADERSKAP** :
 Félicitations pour l'achat de votre kit Leadership LEADERSKAP. Contenu : 1 vision claire (réf. VIS-001), 2
@@ -553,7 +553,7 @@ destruction argumentative.
 **- Velléitaire en boucle** : Terminer par un appel à l'action pour ne rien faire, créant une contradiction
     infinie qui paralyse le lecteur
 
-**Exemple concret :**
+**Exemple :**
 
 🚀 IL EST TEMPS D'AGIR! Chaque seconde compte dans cette course evrénée vers l'excellence! Sortez de
 votre zone de confort, brisez vos limites, dépassez-vous sans relâche! L'action est reine, la motivation votre
@@ -650,7 +650,7 @@ cette course aux mentions virales.
 **- Name-dropping thématique** : Se concentrer sur un secteur (sport, politique, culture)
 **- Name-dropping international** : Mélanger trends français et mondiaux
 
-**Exemple concret :**
+**Exemple :**
 
 _Note : Cet exemple utilise des personnalités fictives car les données Google Trends sont changeantes._
 Réflexion matinale : comme le disait Steve Jobs (et que reprendrait sûrement Elon Musk aujourd'hui),
@@ -687,7 +687,7 @@ l'absence totale d'avirmation.
 **- Cascade métaphysique** : Dérive vers l'existentiel et l'absurde
 **- Cascade en spirale** : Revenir cycliquement aux mêmes interrogations
 
-**Exemple concret :**
+**Exemple :**
 
 Qu'est-ce que l'innovation? N'est-ce pas d'abord se poser les bonnes questions? Mais quelles sont les
 bonnes questions? Celles qui dérangent? Celles qui inspirent? Ou celles qui révèlent ce que nous ignorons
