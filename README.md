@@ -1,7 +1,7 @@
 # OulipoLinkedin-officiel
 Transformez LinkedIn en terrain de jeu littéraire ! Collection de contraintes d'écriture créative inspirées de l'Oulipo pour révéler l'absurdité du discours corporate. Techniques, exemples, templates pour écrire intelligemment sur les réseaux pros. #OulipoLinkedIn
 
-Vous souhaitez prêcher la bonne parole en devant ambassadeur ? Ou bien dénicher les pépite en étant curateur ? Écrivez le en sonnet à : oulipo.corporate@protonmail.com
+Vous souhaitez prêcher la bonne parole en devenant ambassadeur ? Ou bien dénicher les pépites en étant curateur ? Écrivez le en sonnet à : oulipo.corporate@protonmail.com
 
 # Manifeste Oulipo LinkedIn
 
