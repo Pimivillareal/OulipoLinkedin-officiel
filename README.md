@@ -24,7 +24,7 @@ Nous croyons que la langue est un terrain de jeu. Que l’expérimentation, le p
 
 **Faire de l’Oulipo LinkedIn, c’est écrire intelligent (et joyeux) dans la jungle des réseaux pros.**
 
-N'oubliez pas de publier sur le hashtag officiel pour partage votre Oulipo : #OulipoLinkedIn
+N'oubliez pas de publier sur le hashtag officiel pour partage votre Oulipo : #OulipoLinkedIn puis un second hashtag avec le nom de votre contrainte : #lipogrammeanti-buzzword #ensonnet etc. 
 
 # Sommaire Oulipo Linkedin (version du 8 septembre 2025)
 
