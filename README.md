@@ -24,7 +24,7 @@ Nous croyons que la langue est un terrain de jeu. Que l’expérimentation, le p
 
 N'oubliez pas de publier sur le hashtag officiel pour partage votre Oulipo : #OulipoLinkedIn
 
-# Oulipo Linkedin
+# Sommaire Oulipo Linkedin (version du 8 septembre 2025)
 
 - 1. Lipogramme anti-buzzword
 - 2. La règle du S+7 professionnel
